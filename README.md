@@ -15,5 +15,5 @@ make build
 or
 
 ```Shell
-make build d
+make build -d
 ```
