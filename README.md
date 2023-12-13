@@ -2,10 +2,13 @@
 
 ## Description
 
-evaluation docker M1PEX
+evaluation docker et ansible M1PEX
 
 ## Getting Started
 
+---
+
+## EXERCICE 1
 ### Installing
 
 ```Shell
@@ -18,6 +21,9 @@ or
 make build -d
 ```
 
+---
+
+## EXERCICE 2
 ### Deployement using ansible
 
 copy `deploy_M1PEX.yml` and `hosts.ini` to your ansible server.
