@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82107690.css",
+    "main.js": "/static/js/main.c6d8a93d.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/devenezFormateur.jpeg": "/static/media/devenezFormateur.9d4564709bda0e00b5c6.jpeg",
+    "static/media/rejoindreLEcole.jpeg": "/static/media/rejoindreLEcole.09e56545e3cbbb21a212.jpeg",
+    "static/media/prof1-slim.jpg": "/static/media/prof1-slim.e53c7e4102fcae5c4932.jpg",
+    "static/media/contactus-slim.jpg": "/static/media/contactus-slim.d8841886f3f166961b28.jpg",
+    "static/media/formationContinue-slim.jpg": "/static/media/formationContinue-slim.a06e1eea2578ff33495c.jpg",
+    "index.html": "/index.html",
+    "main.82107690.css.map": "/static/css/main.82107690.css.map",
+    "main.c6d8a93d.js.map": "/static/js/main.c6d8a93d.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82107690.css",
+    "static/js/main.c6d8a93d.js"
+  ]
+}

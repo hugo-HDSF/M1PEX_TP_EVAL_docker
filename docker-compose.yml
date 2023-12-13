@@ -1,0 +1,36 @@
+version: '3.8'
+services:
+  vitrine_front:
+    env_file:
+      - ./vitrine_front/.env
+    build:
+      context: ./vitrine_front
+    working_dir: /app
+    volumes:
+      - ./vitrine_front:/app:cached
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+
+  vitrine_back:
+    env_file:
+      - ./vitrine_back/.env
+    build:
+      context: ./vitrine_back
+    working_dir: /app
+    volumes:
+      - ./vitrine_back:/app:cached
+      - /app/node_modules
+    ports:
+      - "3200:3200"
+
+  database:
+    env_file:
+      - ./database/.env
+    build:
+      context: ./database
+    working_dir: /app
+    volumes:
+      - ./database:/app:cached
+    ports:
+      - "3306:3306"
