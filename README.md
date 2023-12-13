@@ -8,8 +8,6 @@ git repository : https://github.com/hugo-HDSF/M1PEX_TP_EVAL_docker
 
 ## Getting Started
 
----
-
 ## EXERCICE 1
 ### Installing
 
@@ -23,7 +21,6 @@ or
 make build -d
 ```
 
----
 
 ## EXERCICE 2
 ### Deployement using ansible
