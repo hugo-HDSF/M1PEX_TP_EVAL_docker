@@ -4,6 +4,8 @@
 
 evaluation docker et ansible M1PEX
 
+git repository : https://github.com/hugo-HDSF/M1PEX_TP_EVAL_docker
+
 ## Getting Started
 
 ---
